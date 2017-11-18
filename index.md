@@ -11,10 +11,10 @@ C++      | http://www.cplusplus.com/
 Java     | http://www.freejavaguide.com/
 Linux    | http://tldp.org/
 Microsoft|https://msdn.microsoft.com/en-us/openspecifications/
-<br />
-<br />
-<br />
+
+
+
 GitHub page editor
 https://github.com/MGouldMMG/mgouldmmg.github.io/edit/master/index.md
-<br />
+
 
