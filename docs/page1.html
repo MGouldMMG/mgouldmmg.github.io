@@ -75,16 +75,15 @@ article {
 </svg>
 
 <p>
-Once you have determined which log you would like to query, type something such as:
-
-wevtutil qe System
-
-This will query the System log. If you have an archived .evt log file, you can find the text “license found” using:
-
-wevtutil qe "C:\Directory\SubDirectory\logFile.evt" /lf:true | findstr /C:"license found"
-
-If you want to restrict searches to only include a certain event level, you can query for them using their level number. Level 4 is Information, 3 is Warning, 2 is Error, and 1 is Critical.
-
+Once you have determined which log you would like to query, type something such as:  wevtutil qe System</br>
+</br>
+This will query the System log. If you have an archived .evt log file, you can find the text “license found” using:</br>
+</br>
+wevtutil qe "C:\Directory\SubDirectory\logFile.evt" /lf:true | findstr /C:"license found"</br>
+</br>
+If you want to restrict searches to only include a certain event level, you can query for them using their level number.</br>
+Level 4 is Information, 3 is Warning, 2 is Error, and 1 is Critical.
+</br>
 wevtutil /?
 </p>
     
