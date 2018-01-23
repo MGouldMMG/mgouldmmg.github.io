@@ -1,3 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="dcterms.created" content="Sun, 19 Nov 2017 05:04:25 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title></title>
+    
+    <style type="text/css">
+    <!--
+    body {
+      color:#FFFFFF;
+      background-color:#A0F0F0;
+      background-image:url('Background Image');
+      background-repeat:no-repeat;
+    }
+    a  { color:#0000FF; }
+    a:visited { color:#800080; }
+    a:hover { color:#008000; }
+    a:active { color:#FF0000; }
+    -->
+	div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+header, footer {
+    padding: 1em;
+    color: white;
+    clear: left;
+    text-align: center;
+}
+nav {
+    float: left;
+    max-width: 300px;
+    margin: 0;
+    padding: 1em;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+    </style>
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  </head>
+ <body>
+
+ 	   <header>
+  	   		   
+       </header>
+<p>
+
 Some of the commonalities in terms of areas to be tested are log files, rendering issues, performance, consistency, storage, memory issues, caching problems, and security vulnerabilities.
 
 There are also overlaps in terms of testing strategies that can be used, including:
@@ -9,3 +75,10 @@ There are also overlaps in terms of testing strategies that can be used, includi
 5.Checking for consistency: Checking for app consistency between Android and iOS. Similar to looking for consistency in pages by testing between browsers, between browser and mobile, and between desktop applications
 6.Checking user reviews: Reading through user reviews to find out how end-users feel about your app and how they use it. This applies to desktop applications and websites as well
 7.Checking for rendering issues: Checking whether web pages display differently based on different mobile browsers and screen sizes
+
+
+</p>
+
+
+ </body>
+</html>
